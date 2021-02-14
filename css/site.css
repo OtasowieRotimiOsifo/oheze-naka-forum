@@ -23,7 +23,7 @@ html,
 
        .school_buildings {
            height: auto;
-           width: 40%;
+           width: auto;
            background-color: #1d539d;
            color: white;
            padding-top: 3%;
@@ -38,7 +38,7 @@ html,
 
        .classroom {
            height: auto;
-           width: 40%;
+           width: auto%;
            background-color: #1d539d;
            color: white;
            padding-top: 3%;
@@ -53,7 +53,7 @@ html,
 
        .classroom_large {
            height: auto;
-           width: 40%;
+           width: auto%;
            background-color: #1d539d;
            color: white;
            padding-top: 1%;
