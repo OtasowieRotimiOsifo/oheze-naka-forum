@@ -22,7 +22,7 @@ html,
        }
 
        .school_buildings {
-           height: 60%;
+           height: auto;
            width: 40%;
            background-color: #1d539d;
            color: white;
@@ -37,7 +37,7 @@ html,
        }
 
        .classroom {
-           height: 60%;
+           height: auto;
            width: 40%;
            background-color: #1d539d;
            color: white;
@@ -52,7 +52,7 @@ html,
        }
 
        .classroom_large {
-           height: 90%;
+           height: auto;
            width: 40%;
            background-color: #1d539d;
            color: white;
