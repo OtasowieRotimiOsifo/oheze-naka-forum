@@ -24,12 +24,27 @@ html,
        .school_buildings {
            height: auto;
            width: auto;
-           background-color: #1d539d;
+           background-color: #fdfefe;
            color: white;
-           padding-top: 3%;
-           padding-left: 3%;
-           padding-bottom: 3%;
-           padding-right: 3%;
+           padding-top: 1%;
+           padding-left: 1%;
+           padding-bottom: 1%;
+           padding-right: 1%;
+           box-sizing: border-box;
+           overflow-y: auto;
+           overflow-x: hidden;
+           font-family: "Segoe UI";
+       }
+
+       .school_sign {
+           height: auto;
+           width: auto;
+           background-color: #fdfefe;
+           color: white;
+           padding-top: 1%;
+           padding-left: 1%;
+           padding-bottom: 1%;
+           padding-right: 1%;
            box-sizing: border-box;
            overflow-y: auto;
            overflow-x: hidden;
@@ -38,13 +53,13 @@ html,
 
        .classroom {
            height: auto;
-           width: auto%;
-           background-color: #1d539d;
+           width: auto;
+           background-color: #fdfefe;
            color: white;
-           padding-top: 3%;
-           padding-left: 3%;
-           padding-bottom: 3%;
-           padding-right: 3%;
+           padding-top: 1%;
+           padding-left: 1%;
+           padding-bottom: 1%;
+           padding-right: 1%;
            box-sizing: border-box;
            overflow-y: auto;
            overflow-x: hidden;
@@ -53,13 +68,13 @@ html,
 
        .classroom_large {
            height: auto;
-           width: auto%;
-           background-color: #1d539d;
+           width: auto;
+           background-color: #fdfefe;
            color: white;
            padding-top: 1%;
-           padding-left: 3%;
+           padding-left: 1%;
            padding-bottom: 1%;
-           padding-right: 3%;
+           padding-right: 1%;
            box-sizing: border-box;
            overflow-y: auto;
            overflow-x: hidden;
