@@ -1,3 +1,3 @@
 <?php
-include_once("navigation.html");
+include_once("navigation2.html");
  ?>
